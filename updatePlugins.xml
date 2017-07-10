@@ -1,3 +1,3 @@
 <plugins>
-  <plugin id="MyPlug" url="" version="1.0"/>
+  <plugin id="MyPlug" url="http://raw.githubusercontent.com/w1ld0g/tempRepo/master/test/pom.zip" version="1.0"/>
 </plugins>
